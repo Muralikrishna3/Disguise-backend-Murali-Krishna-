@@ -1,0 +1,7 @@
+username='disguise'
+password='Newuser@123'
+warehouse='disguise_DE_WH'
+account='lti-sas'
+role='disguise_DE_ROLE'
+entity='email'
+masking_policy='STRING_MASK'
